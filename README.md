@@ -1,5 +1,5 @@
 # RUDRA
-Hybrid neural network for Ocean (CNN-LSTM-GAN)
+Hybrid neural network for OceanS (CNN-LSTM-GAN)
 
 
 
